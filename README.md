@@ -1,6 +1,6 @@
 <div align="center">
 
-## 💻 **Hi there. I'm Valerio** [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://linkedin.com/in/valeriobartolini)
+## 💻 **Hi there. I'm Valerio**
 
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
